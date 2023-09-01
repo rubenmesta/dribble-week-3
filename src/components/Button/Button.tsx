@@ -2,7 +2,7 @@ import React, { ReactNode } from 'react';
 import { colors } from '../../utils/colors';
 import styled, { CSSObject } from '@emotion/styled';
 
-export declare type ButtonVariant =
+export type ButtonVariant =
   | 'primary'
   | 'secondary'
   | 'black'
