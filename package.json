@@ -1,6 +1,7 @@
 {
   "name": "dribble-zulu",
   "version": "0.1.0",
+  "description": "Dribble design system",
   "private": false,
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
